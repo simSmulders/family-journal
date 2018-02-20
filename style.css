@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700,700i');
+
+body {
+	background-color: white;
+	font-family: 'Rubik', sans-serif;
+	font-size: 18px;
+
+}
+
+.jumbotron {
+	padding: 17.5px;
+	margin-top: 15px;
+}
